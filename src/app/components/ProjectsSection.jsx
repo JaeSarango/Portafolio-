@@ -39,7 +39,7 @@ const projectsData = [
     description: "Charizard",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
-    gitUrl: "https://github.com/JaeSarango/charmandercard",
+    gitUrl: "https://github.com/Jae-Sarango/charizard",
     previewUrl: "https://cardcharman.netlify.app/",
   },
   {
