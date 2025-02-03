@@ -11,7 +11,7 @@ const projectsData = [
     description: "Landing Page con Tailwind CSS, Framer Motion y React",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/JaeSarango/landwind",
+    gitUrl: "https://github.com/Jae-Sarango/LandWind",
     previewUrl: "https://landiwindjae.netlify.app/",
   },
   {
@@ -21,7 +21,7 @@ const projectsData = [
       "Aplicación de renderizado de imagenes de gatitos y descripción provenientes de  API CAT   ",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/JaeSarango/App-de-gatitos-",
+    gitUrl: "https://github.com/Jae-Sarango/app-gatitos",
     previewUrl: "https://appgatitos.netlify.app/",
   },
   {
@@ -30,7 +30,7 @@ const projectsData = [
     description: "juego",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/JaeSarango/tic-tac-toe-",
+    gitUrl: "https://github.com/Jae-Sarango/tic-tac-toe",
     previewUrl: "https://tictactoejae.netlify.app/",
   },
   {
@@ -48,7 +48,7 @@ const projectsData = [
     description: "Aplicación para filtrar peliculas por medio de la Api omb ",
     image: "/images/projects/5.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/JaeSarango/peliculas/tree/main",
+    gitUrl: "https://github.com/Jae-Sarango/peliculas-",
     previewUrl: "https://peliculasjae.netlify.app/",
   },
   {
@@ -57,7 +57,7 @@ const projectsData = [
     description: "Flujo de seguidores Twitter",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/JaeSarango/TwitterFollowCard",
+    gitUrl: "https://github.com/Jae-Sarango/TwitterFollowCard",
     previewUrl: "https://twitterfollowjae.netlify.app/",
   },
 ];
